@@ -21,9 +21,10 @@ I am a computer science and engineering student at the Royal Institute of Techno
 - :mortar_board: Computer Science and Engineering, Royal Institute of Technology (KTH), [2022]-[2027]
 
 ## Contact Me
-- :email: E-mail: [filipdi@kth.se]
+- :email: E-mail: filipdi@kth.se
 - :globe_with_meridians: Website: [Your website]
-- :bird: Twitter: [@fdimitrijevic]
-- :octocat:
+- :bird: Twitter: [@fdimitrijevic](https://twitter.com/fdimitrijevic
+- :octocat: GitHub: [FilipDimitrijevic97](https://github.com/FilipDimitrijevic97)
+
 
 
