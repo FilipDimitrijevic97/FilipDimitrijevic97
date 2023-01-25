@@ -19,7 +19,7 @@ I am a computer science and engineering student at the Royal Institute of Techno
 
 ## Education
 - :mortar_board: Computer Science and Engineering, Royal Institute of Technology (KTH), [2022]-[2027]
-- :robot: AI Society: Member of [KTH AI Society](https://ai-society.kth.se/) : I am passionate about Artificial Intelligence and its potential to change the world.
+- :robot: AI Society: Member of [KTH AI Society]https://kthais.com/ : I am passionate about Artificial Intelligence and its potential to change the world.
 
 
 ## Contact Me
