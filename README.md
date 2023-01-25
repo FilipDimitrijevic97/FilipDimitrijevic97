@@ -30,5 +30,6 @@ I am a computer science and engineering student at the Royal Institute of Techno
 - :construction_worker: LinkedIn: [Filip Dimitrijevic](https://www.linkedin.com/in/filip-dimitrijevic-6b0543215/)
 
 
+![](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)
 
 
