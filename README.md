@@ -3,6 +3,7 @@
 I am a computer science and engineering student at the Royal Institute of Technology (KTH)
 
 ![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+![](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)
 
 ## Skills
 - :computer: Proficient in Java. Trying to learn Python, JavaScript, and GO.
@@ -28,8 +29,3 @@ I am a computer science and engineering student at the Royal Institute of Techno
 - :bird: Twitter: (https://twitter.com/fdimitrijevic
 - :octocat: GitHub: [FilipDimitrijevic97](https://github.com/FilipDimitrijevic97)
 - :construction_worker: LinkedIn: [Filip Dimitrijevic](https://www.linkedin.com/in/filip-dimitrijevic-6b0543215/)
-
-
-![](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)
-
-
