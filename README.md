@@ -3,7 +3,6 @@
 I am a computer science and engineering student at the Royal Institute of Technology (KTH)
 
 ![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-![](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)
 
 ## Skills
 - :computer: Proficient in Java. Trying to learn Python, JavaScript, and GO.
