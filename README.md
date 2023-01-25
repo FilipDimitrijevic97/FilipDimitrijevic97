@@ -14,8 +14,8 @@ I am a computer science and engineering student at the Royal Institute of Techno
 
 ## Projects
 - :video_game: [Snake Game](https://github.com/FilipDimitrijevic97/snake) : A classic Snake game in JavaScript
-- :rocket: [Weather App](https://github.com/YOUR_USERNAME/weather-app) : A weather app built with React and OpenWeather API
-- :lock: [Password Generator](https://github.com/YOUR_USERNAME/password-generator) : A password generator built in Python
+- :rocket: [Weather App](https://github.com/YOUR_USERNAME/weather-app) : A weather app built with React and OpenWeather API: Coming Soon :construction:
+- :lock: [Password Generator](https://github.com/YOUR_USERNAME/password-generator) : A password generator built in Python: Coming Soon :construction:
 
 ## Education
 - :mortar_board: Computer Science and Engineering, Royal Institute of Technology (KTH), [2022]-[2027]
@@ -23,7 +23,7 @@ I am a computer science and engineering student at the Royal Institute of Techno
 ## Contact Me
 - :email: E-mail: filipdi@kth.se
 - :globe_with_meridians: Website: Coming Soon :construction:
-- :bird: Twitter: [@fdimitrijevic](https://twitter.com/fdimitrijevic
+- :bird: Twitter: (https://twitter.com/fdimitrijevic
 - :octocat: GitHub: [FilipDimitrijevic97](https://github.com/FilipDimitrijevic97)
 
 
