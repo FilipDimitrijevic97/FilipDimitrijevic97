@@ -25,6 +25,6 @@ I am a computer science and engineering student at the Royal Institute of Techno
 ## Contact Me
 - :email: E-mail: filipdi@kth.se
 - :globe_with_meridians: Website: Coming Soon :construction:
-- :bird: Twitter: (https://twitter.com/fdimitrijevic
+- :bird: Twitter: (https://twitter.com/fdimitrijevic)
 - :octocat: GitHub: [FilipDimitrijevic97](https://github.com/FilipDimitrijevic97)
 - :construction_worker: LinkedIn: [Filip Dimitrijevic](https://www.linkedin.com/in/filip-dimitrijevic-6b0543215/)
