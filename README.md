@@ -2,7 +2,6 @@
 
 I am a computer science and engineering student at the Royal Institute of Technology (KTH)
 
-![](https://media.giphy.com/media/3o7TKzsM0f9r9aM1vC/giphy.gif)
 ![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## Skills
