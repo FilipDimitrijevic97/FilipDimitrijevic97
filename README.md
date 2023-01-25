@@ -5,7 +5,7 @@ I am a computer science and engineering student at the Royal Institute of Techno
 ![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## Skills
-- :computer: Proficient in Java. Trying to learn Python, JavaScript, and GO.
+- :computer: Proficient in Java. :soon: Python, JavaScript, and GO.
 - :globe_with_meridians: Familiar with web development (HTML, CSS, JavaScript)
 - :file_folder: Experienced with version control systems (Git)
 - :wrench: Familiar with Agile methodologies and software development life cycle
