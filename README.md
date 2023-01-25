@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Filip Dimitrijevic 🤝
 
 I am a computer science and engineering student at the Royal Institute of Technology (KTH)
 
