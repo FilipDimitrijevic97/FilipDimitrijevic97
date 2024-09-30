@@ -3,7 +3,7 @@
 I am a computer science and engineering student at the Royal Institute of Technology (KTH).
 
 ## Skills
-- :computer: Skills in Java, Python, C, SQL, Assembly, HTML, CSS, and JavaScript.
+- :computer: Skills in Java, Python, C, SQL, HTML, CSS, and JavaScript.
 - :file_folder: Experienced with version control systems (Git).
 - :bulb: Innovative thinker and problem solver.
 - :books: Constantly learning and expanding my knowledge.
