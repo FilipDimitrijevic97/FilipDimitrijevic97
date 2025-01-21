@@ -25,6 +25,6 @@ I'm a Computer Science and Engineering student at the Royal Institute of Technol
 - Data Analytics
 - Biotech
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 - Email: [filipdi@kth.se](mailto:filipdi@kth.se) | [filip@kthais.com](mailto:filip@kthais.com)
 - LinkedIn: [Filip Dimitrijevic](https://www.linkedin.com/in/filip-dimitrijevi%C4%87-6b0543215/)
