@@ -1,30 +1,51 @@
-# Hi, I'm Filip Dimitrijevic 👋
+# filip dimitrijevic
 
-I'm a Computer Science and Engineering student at the Royal Institute of Technology (KTH) and a Software Developer at Madden Analytics, where I work with Go and React to build data-driven solutions.
+computer science and engineering student at kth royal institute of technology and software developer at madden analytics, working with go and react to build analytics solutions for e-commerce.
 
-## 🎓 Education
-- Computer Science and Engineering at KTH Royal Institute of Technology (2022-2027)
-- Chairman of the Board at KTH AI Society (2023-2024) - [KTH AI Society](https://kthais.com)
-  - Leading initiatives to promote AI education and research
-  - Organizing workshops, seminars, and networking events
+## education
 
-## 💼 Professional Experience
-- Software Developer at Madden Analytics (Part-time)
-  - Building modern web applications using React
-  - Developing backend services with Go
-  - Working with data analytics and visualization
+**msc computer science and engineering** | kth royal institute of technology | 2022 - 2027
 
-## 🛠️ Tech Stack
-- Frontend: React, JavaScript/TypeScript, HTML/CSS
-- Backend: Go
-- Tools & Others: Git, Docker
+main courses: programming paradigms, algorithms and data structures, linear algebra, databases
 
-## 🤖 Interests
-- Artificial Intelligence
-- Software Development
-- Data Analytics
-- Biotech
+**medical doctor's programme** | university of belgrade | 2017 - 2020
 
-## 📫 Let's Connect!
-- Email: [filipdi@kth.se](mailto:filipdi@kth.se) | [filip@kthais.com](mailto:filip@kthais.com)
-- LinkedIn: [Filip Dimitrijevic](https://www.linkedin.com/in/filip-dimitrijevi%C4%87-6b0543215/)
+completed three years of medical studies. main courses: statistics, neuroscience, pharmacology, genetics
+
+## experience
+
+**software developer** | madden analytics ab | october 2024 - present
+
+developing analytics features for e-commerce. working fullstack with react frontend and go backend.
+
+**data and ai internship** | ericsson ab | june 2024 - august 2024
+
+developed a speech-interactive ai system using openai whisper for speech-to-text and mistral llm with domain context, deployed on nvidia jetson xavier nx.
+
+**chairman of the board** | kth ai society | june 2023 - september 2024
+
+initiated partnerships with furhat robotics, ericsson, and mckinsey quantumblack. organized google event "ai innovation in sweden, europe and beyond" with sundar pichai.
+
+## research
+
+**parameter tuning for domain name system covert channels** | kth bachelor's thesis | 2025
+
+investigated dns covert channels and built virtual testbed. demonstrated that combined record-type and edns(0) tuning in iodine achieves full snort evasion with high throughput (~961 kb/s).
+
+## tech stack
+
+**languages**: java, javascript, go, python, sql
+
+**tools**: git, github, linux, docker, ai tools
+
+**frameworks**: react
+
+## interests
+
+artificial intelligence, software development, data analytics, network security, biotech
+
+## contact
+
+email: filipdi@kth.se | filip@kthais.com
+
+linkedin: [filip dimitrijević](https://www.linkedin.com/in/filip-dimitrijevi%C4%87-6b0543215/)
