@@ -1,6 +1,6 @@
 # filip dimitrijevic
 
-software developer building analytics solutions with go and react. currently studying computer science at kth royal institute of technology.
+currently studying computer science master at kth royal institute of technology.
 
 ## what i do
 
